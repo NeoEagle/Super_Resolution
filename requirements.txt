@@ -1,0 +1,12 @@
+opencv-python 
+imageio
+streamlit 
+basicsr 
+facexlib 
+gfpgan 
+numpy 
+opencv-python 
+Pillow 
+torch 
+torchvision 
+tqdm
