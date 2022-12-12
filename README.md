@@ -7,7 +7,7 @@ The base model is devoloped by xinntao and their team:
 https://github.com/xinntao/Real-ESRGAN
 
 # Upscalling Images
-When using model:
+When using the project:
 
 1: Only add one image at a time
 
