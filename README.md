@@ -16,3 +16,8 @@ When using model:
 3: Clear input 
 
 4: Rinse and Repeat
+
+# To do (V2):
+1. Support for multiple images at the same time.
+2. Local activation (without Colab).
+3. 
