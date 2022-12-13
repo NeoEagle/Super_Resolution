@@ -19,7 +19,7 @@ When using the project (after launching Google Colab, importing and running file
 
 4: Rinse and Repeat
 
-# To do (V2):
+# To do (V2 priorities):
 1. Support for multiple images at the same time.
-2. Local activation (without Colab).
-3. Merge outputs into single file (pdf, zip etc)
+2. Merge outputs into single file (pdf, zip etc)
+3. Local activation (without Colab).
