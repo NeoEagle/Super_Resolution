@@ -7,7 +7,7 @@ The base model is devoloped by xinntao and their team:
 https://github.com/xinntao/Real-ESRGAN
 
 # Upscalling Images
-When using the project:
+When using the project (after launching Google Colab, importing and running file):
 
 1: Only add one image at a time
 
