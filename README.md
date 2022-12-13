@@ -1,6 +1,6 @@
 # Super Resolution
 Real ESRGAN image upscalling with Streamlit in Google Colab.
-Currently support for videos and multiple images is being investigated.
+Currently support for videos is being investigated.
 
 The base model is devoloped by xinntao and their team:
 
@@ -11,15 +11,13 @@ When using the project (after launching Google Colab, importing and running file
 
 *Make sure runtime is GPU (it should be by default).*
 
-1: Only add one image at a time (currently supported file types: JPEG,PNG,WEBP)
+1: Upload files using Google Colab filetree, in Real-ESRGAN/inputs *(Currently supported file types: JPEG,PNG,WEBP)*
 
-2: Download output 
+2: Enhance
 
-3: Clear input and result folder
+3: Download ZIP output
 
 4: Rinse and Repeat
 
-# To do (V2 priorities):
-1. Support for multiple images at the same time.
-2. Merge outputs into single file (pdf, zip etc)
-3. Local activation (without Colab).
+# To do (V3 priorities):
+1. Local activation (without Colab).
