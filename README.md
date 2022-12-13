@@ -15,7 +15,7 @@ When using the project (after launching Google Colab, importing and running file
 
 2: Download output 
 
-3: Clear input 
+3: Clear input and result folder
 
 4: Rinse and Repeat
 
