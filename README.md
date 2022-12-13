@@ -21,3 +21,4 @@ When using the project (after launching Google Colab, importing and running file
 
 # To do (V3 priorities):
 1. Local activation (without Colab).
+2. TBD
