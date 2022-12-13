@@ -20,4 +20,4 @@ When using the project (after launching Google Colab, importing and running file
 # To do (V2):
 1. Support for multiple images at the same time.
 2. Local activation (without Colab).
-3. 
+3. Merge outputs into single file(pdf, zip etc)
