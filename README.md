@@ -9,7 +9,7 @@ https://github.com/xinntao/Real-ESRGAN
 # Upscalling Images
 When using the project (after launching Google Colab, importing and running file):
 
-1: Only add one image at a time
+1: Only add one image at a time (currently supported file types: JPEG,PNG,WEBP)
 
 2: Download output 
 
