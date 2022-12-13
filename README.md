@@ -8,7 +8,8 @@ https://github.com/xinntao/Real-ESRGAN
 
 # Upscalling Images
 When using the project (after launching Google Colab, importing and running file):
-Make sure runtime is GPU(should be by default)
+
+*Make sure runtime is GPU (it should be by default).*
 
 1: Only add one image at a time (currently supported file types: JPEG,PNG,WEBP)
 
